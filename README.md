@@ -181,6 +181,21 @@ Before pushing to GitHub, make sure these are not committed:
 - `.agents/`
 - private logs or paper PDFs
 
+## Authors
+
+- Haotong Fu <2301110012@pku.edu.cn>
+- Wei Wang <wwmath166@outlook.com>
+
+## Acknowledgements
+
+The authors thank the following people for helpful discussions, feedback, and support:
+
+- Zeyu Jin <jinzy@pku.edu.cn>
+- Wentao Long
+- Ziyu Wang <wangziyu-edu@stu.pku.edu.cn>
+- Shengquan Xiang <2301110012@pku.edu.cn>
+- Zhifei Zhang <zfzhang@math.pku.edu.cn>
+
 ## License
 
 MIT License. See [LICENSE](LICENSE).
