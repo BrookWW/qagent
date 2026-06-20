@@ -193,7 +193,7 @@ The authors thank the following people for helpful discussions, feedback, and su
 - Zeyu Jin <jinzy@pku.edu.cn>
 - Wentao Long
 - Ziyu Wang <wangziyu-edu@stu.pku.edu.cn>
-- Shengquan Xiang <2301110012@pku.edu.cn>
+- Shengquan Xiang <shengquan.xiang@math.pku.edu.cn>
 - Zhifei Zhang <zfzhang@math.pku.edu.cn>
 
 ## License
