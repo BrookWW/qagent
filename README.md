@@ -190,6 +190,7 @@ Before pushing to GitHub, make sure these are not committed:
 
 The authors thank the following people for helpful discussions, feedback, and support:
 
+- Yuhang Ai
 - Zeyu Jin <jinzy@pku.edu.cn>
 - Wentao Long
 - Ziyu Wang <wangziyu-edu@stu.pku.edu.cn>
